@@ -41,10 +41,10 @@
 ## 🚀 Cloud & DevOps Projects  
 
 🔹 **[My Cloud Portfolio](#)** *(Coming Soon!)*  
-🔹 **[Automated Web App Deployment using GitHub Actions](#)**  
-🔹 **[Terraform Infrastructure Deployment on AWS](#)**  
-🔹 **[CI/CD Pipeline for Kubernetes Deployment](#)**  
-🔹 **[Monitoring & Logging with Prometheus & Grafana](#)**  
+🔹## **[Automated Web App Deployment using GitHub Actions](#)**  
+🔹 ##**[Terraform Infrastructure Deployment on AWS](#)**  
+🔹## **[CI/CD Pipeline for Kubernetes Deployment](#)**  
+🔹## **[Monitoring & Logging with Prometheus & Grafana](#)**  
 
 ---
 
