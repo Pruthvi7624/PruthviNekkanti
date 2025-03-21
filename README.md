@@ -75,18 +75,4 @@
 
 ---
 
-## 🔥 Why Should HR & IT Leaders Notice This Profile?  
-
-✅ **Professional Presentation:** Well-structured profile showcasing **Cloud, DevOps, and Infrastructure skills**  
-✅ **Project Highlights:** Demonstrates practical knowledge in **AWS, Azure, Kubernetes, Terraform, CI/CD**  
-✅ **Certifications:** Validates expertise in **Azure & AWS cloud environments**  
-✅ **Networking Ready:** Clearly states **career goals & readiness for DevOps roles**  
-
----
-
-### **🚀 How to Deploy This Profile?**  
-1️⃣ **Go to GitHub** → Create a repository named **`PruthviNekkanti`**  
-2️⃣ **Inside the repository**, create a new file called **README.md**  
-3️⃣ **Copy & Paste** the above markdown content  
-4️⃣ **Commit & Save** → Your **GitHub Profile README** is now live! 🎉  
 
