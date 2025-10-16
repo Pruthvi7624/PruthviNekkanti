@@ -13,7 +13,7 @@
 
 ## 🌎 About Me  
 
-- 🔭 **Currently working on:** Cloud Infrastructure Automation & Kubernetes  
+- 🔭 **Currently working on:** Cloud Infrastructure Automation and Monitoring  
 - 🌱 **Learning:** MLOps, Cloud Security, DevSecOps  
 - 🎯 **Certifications:** Azure (AZ-900, AZ-104), AWS Cloud Foundations  
 - 👯 **Looking to collaborate on:** Cloud & DevOps Projects  
